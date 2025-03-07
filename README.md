@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bsayak03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsayak03" height="30" width="40" /></a>
 <a href="https://instagram.com/_datboii.sayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_datboii.sayak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bsayak03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsayak03" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsayak03" height="30" width="40" /></a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30" height="30" alt="penguin" />
 </p>
 
