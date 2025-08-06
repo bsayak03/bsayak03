@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayak Bhattacharya <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30" height="30" alt="penguin" /></h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <div align="center" width="50">
 
